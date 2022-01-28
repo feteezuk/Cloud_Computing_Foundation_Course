@@ -7,4 +7,4 @@ IAAS is renting  virtual servers in the cloud, but they are sharing this space w
 
 For a faster experience for end-users, MAAS is controlling physical servers in the cloud without sharing space with others. From your computer, you are able to control metal servers that you are renting 100% to yourself(not shared) 
 Serverless Technology is running specific code(in the cloud) based on events that happen (ex. click of button, picture upload) on your website ,which creates a specific action by the developer. For ex. a user clicks a button and then a form gets submitted. Based on user action, an event happens. The developer gets charged on a "per event" basis.
-The benefits of Serverless technology is that companies that are newly starting out can save money, it's autoscalable, and developer does not worry about configuring app  networking, cpu, because the cloud hosting provider takes care of it. 
+The benefits of Serverless technology is that companies that are newly starting out can save money, it's autoscalable, and developer does not worry about configuring app  networking, cpu, because the cloud hosting provider takes care of it. Adding this
