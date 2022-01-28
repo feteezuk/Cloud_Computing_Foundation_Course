@@ -1,0 +1,10 @@
+For Saas models, software is created by a specific company for end users to use online.  The SAAS software, such as Gmail is created by Google which handles automatic updates, versions, etc. They handle everything and the end user just consumes the content.
+
+PAAS, which provides a platform for developers to create their code while the host(amazon beanstalk for example) will scale their application automatically. It allows the Software engineer to not have to play the "admin" role dealing with "how to scale", network configurations, and load balancing. This might be a great way for a company that is just starting out with a few end users before they know if their company will succeed. In the PAAS model, the app configurations for networking , computing, are powered specifically by the hosting provider.
+
+A company that has scaled and wants to save money while providing a faster service may opt in for an IAAS.  They can do this by using cloud architects to set up (in bulk) virtual machine configurations and networking which ends up saving the company money while scaling.
+IAAS is renting  virtual servers in the cloud, but they are sharing this space with other companies. 
+
+For a faster experience for end-users, MAAS is controlling physical servers in the cloud without sharing space with others. From your computer, you are able to control metal servers that you are renting 100% to yourself(not shared) 
+Serverless Technology is running specific code(in the cloud) based on events that happen (ex. click of button, picture upload) on your website ,which creates a specific action by the developer. For ex. a user clicks a button and then a form gets submitted. Based on user action, an event happens. The developer gets charged on a "per event" basis.
+The benefits of Serverless technology is that companies that are newly starting out can save money, it's autoscalable, and developer does not worry about configuring app  networking, cpu, because the cloud hosting provider takes care of it. 
